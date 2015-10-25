@@ -151,7 +151,7 @@ run_analysis.R creates a data frame called 'tidy_data'. It has 180 observations 
 [72] "frequency_BodyAcceleratorMagnitude_meanFreq()"        
 [73] "frequency_BodyBodyAcceleratorJerkMagnitude_mean()"    
 [74] "frequency_BodyBodyAcceleratorJerkMagnitude_std()"     
-[75] "frequency_BodyBodyAcceleratorJerkMagnitude_meanFreq()"
+[75] "frequency_BodyBodyAcceleratorJerkMagnitude_meanFreq()"    
 [76] "frequency_BodyBodyGyroscopeMagnitude_mean()"          
 [77] "frequency_BodyBodyGyroscopeMagnitude_std()"           
 [78] "frequency_BodyBodyGyroscopeMagnitude_meanFreq()"      
